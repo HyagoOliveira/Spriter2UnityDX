@@ -1,0 +1,17 @@
+{
+    "name": "Dharengo.Spriter2Unity.Editor",
+    "references": [
+        "Dharengo.Spriter2Unity.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

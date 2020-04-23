@@ -1,0 +1,10 @@
+{
+    "name": "com.dharengo.spriter2unitydx",
+    "displayName": "Spriter2UnityDXs",
+    "version": "1.0.4",
+    "unity": "2019.3",
+    "description": "Converts Spriter .scml files to Unity prefabs.",
+    "keywords": ["2d", "Spriter"],
+    "category": "2D",
+    "dependencies": {}
+}
